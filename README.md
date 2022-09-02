@@ -81,7 +81,7 @@ cd plane-notify
 ### Configure individual planes
 
 -   An example file is given (plane1.ini) plane config files should be in the configs directory, the program looks for any file in that folder with a .ini extension.
--   Each plane should have its own config
+-   Each plane should have its own config.
 
 ### Enter and create a new Screen Session
 
