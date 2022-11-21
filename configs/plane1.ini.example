@@ -24,7 +24,7 @@ TYPES = [small_airport, medium_airport, large_airport]
 
 #TITLE for Twitter, PB and Discord are Just text added to the front of each message/tweet sent
 [TWITTER]
-ENABLE = FALSE
+ENABLE = TRUE
 TITLE =
 ACCESS_TOKEN = athere
 ACCESS_TOKEN_SECRET = atshere
